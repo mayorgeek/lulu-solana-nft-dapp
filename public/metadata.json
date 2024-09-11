@@ -1,0 +1,32 @@
+{
+    "name": "Cat NFT",
+    "symbol": "LULU",
+    "description": "A random cat NFT that is unsellable",
+    "seller_fee_basis_points": 0, 
+    "image": "https://placekitten.com/200/300",
+    "attributes": [
+      {
+        "trait_type": "Cuteness",
+        "value": "100%"
+      },
+      {
+        "trait_type": "Price",
+        "value": "$5"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://placekitten.com/200/300",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "EyPLpupG6zKfKc9L6uGZmTo9hBjZp9Fe4XmEoZxX3kHe",
+          "share": 100
+        }
+      ]
+    }
+  }
+  
